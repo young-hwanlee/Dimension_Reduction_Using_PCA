@@ -1,1 +1,1 @@
-# Dimension Reduction Using principal component analysis (PCA)
+# Dimensionality Reduction Using principal component analysis (PCA)
