@@ -7,7 +7,7 @@ The face images are obtained from the software-based aligned version in [1], of 
 ## Results
 ### 1. Sigular Values
 Sigular values are plotted. It seems that K=200~500 is enough to represent all faces.
-![singular_values](https://user-images.githubusercontent.com/67979833/87225717-fdc25380-c35c-11ea-8932-b8f518ea90ae.png){width="50%" height="50%"}
+![singular_values](https://user-images.githubusercontent.com/67979833/87225717-fdc25380-c35c-11ea-8932-b8f518ea90ae.png =50%x50%)
 
 ### 2.
 Only 10 eigenfaces are shown.
