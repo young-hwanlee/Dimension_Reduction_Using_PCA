@@ -22,7 +22,7 @@ end
 figure(1);
 plot(diag(S),'LineWidth',2);
 grid;
-xlabel('n'); ylabel('Singular values');
+xlabel('K'); ylabel('Singular values');
 
 % display a number of 168x168-dimensional eigenvectors as images
 for i=1:num_imgs
