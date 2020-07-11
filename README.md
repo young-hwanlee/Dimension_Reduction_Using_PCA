@@ -10,8 +10,7 @@ Sigular values are plotted. It seems that K=200~500 is enough to represent all f
 <img src='https://user-images.githubusercontent.com/67979833/87225717-fdc25380-c35c-11ea-8932-b8f518ea90ae.png' width=50% height=50%/>
 
 ### 2. Eigenfaces
-Only 10 eigenfaces are shown. 
-
+Only 10 eigenfaces are shown.         
 <img src='https://user-images.githubusercontent.com/67979833/87225473-4973fd80-c35b-11ea-9744-7dd4da1dbeb5.png' width=50% height=50%/>
 
 ### 3. Dimensional Reduction
