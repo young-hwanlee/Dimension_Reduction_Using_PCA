@@ -1,5 +1,5 @@
 # Dimensionality Reduction Using Principal Component Analysis (PCA)
-An implementation of principal component analysys
+An implementation of principal component analysis
 
 ## Dataset
 The face images are obtained from the software-based aligned version in [1], of the Labeled Faces in the Wild (LFW) database [2]. N = 1924 have been selected and cropped in order to omit most of the background.
